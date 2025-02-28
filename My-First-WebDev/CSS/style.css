@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #1d099f;
+    line-height: 1.6;
+    text-align: center;
+    padding-top: 20px;
+}
+
+nav {
+
+    background-color: #780a0a;
+    padding: 20px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 15px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    background-color: #980a0a;
+    border-radius: 5px;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 30px;
+    border: 5px solid #333;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 36px;
+    color: #333;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+table{
+    margin-left: 260px;
+}
+
+
+
+
